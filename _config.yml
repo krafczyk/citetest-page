@@ -1,0 +1,7 @@
+encoding: utf-8
+
+baseurl: ""
+url: ""
+
+scholar:
+  style: _styles/modified-ieee.csl
